@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/playfair-display": "^5.1.1",
+    "@fontsource/roboto": "^5.1.1",
     "@google/generative-ai": "^0.21.0",
     "axios": "^1.7.9",
     "dotenv": "^16.4.7",
